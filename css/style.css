@@ -109,13 +109,13 @@ img {
   .header li + li {
     margin-left: 30px;
   }
-
- @media (max-width: 760px) {
+  
+  @media (max-width: 760px) {
     .header nav a {
       padding: 8px;
       font-size: 0.8em; 
     }
-  } 
+  }   
   
   .sidenav {
     grid-area: sidenav;
@@ -408,4 +408,3 @@ footer p {
       padding: 8px;
   }
 }
-
