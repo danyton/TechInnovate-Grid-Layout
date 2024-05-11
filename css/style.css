@@ -115,6 +115,8 @@ img {
       padding: 8px;
       font-size: 0.8em; 
     }
+
+}
   
   .sidenav {
     grid-area: sidenav;
